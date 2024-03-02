@@ -1,0 +1,15 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: devops-demo-service
+  labels:
+    app: devops
+spec:
+  type: NodePort
+  ports:
+    - name: devops
+      port: 8000
+      targetPort: 8000
+      nodePort: 30402
+  selector:
+    app: devops
