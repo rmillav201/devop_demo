@@ -91,7 +91,7 @@ Repositorio Docker Hub: El repositorio de la imagen utilizada para el despliegue
 - **Repositorio de Git**: El repositorio de código fuente está disponible en este enlace. Los archivos YAML de configuración para Kubernetes se encuentran en la carpeta `devop_demo/kubernetes/`.
 - **Archivos de Reportes de Pruebas**: Los archivos de reportes de pruebas generados por Jenkins y la consola de ejecución del pipeline están disponibles en el repositorio con el nombre `pipeline_and_surefire_reports.zip`.
 - **Archivos de Resultados de SonarQube**: Los archivos de resultados de la verificación del código utilizando SonarQube se encuentran en el repositorio con el nombre `sonarqube_results.zip`.
-- Videos de Ejecución del Pipeline: Los videos de la ejecución completa de la prueba técnica están disponibles en el repositorio con el nombre `videos_ci_cd.zip`.
+- Videos de Ejecución del Pipeline: Los videos de la ejecución completa de la prueba técnica están disponibles en el repositorio con el nombre `videos_ci_cd.zip` `en la URL https://drive.google.com/file/d/17Ga7dBBz2aYjERZLBf0GBr3M2ERhi6uq/view?usp=sharing.
 
 
 
